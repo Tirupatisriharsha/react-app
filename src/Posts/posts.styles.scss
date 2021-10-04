@@ -1,0 +1,19 @@
+.posts{
+    overflow-y: auto;
+    height: 98%;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 27px;
+}
+
+.post{
+    margin: 10px;
+    padding: 5px;
+    min-height: 50px;
+    width: 30%;
+    height: 120px;
+    background-color: #d8d8e0d4;
+    text-align: center;
+    cursor: pointer;
+}
